@@ -1,0 +1,2 @@
+#define MentalMath_VERSION_MAJOR @MentalMath_VERSION_MAJOR@
+#define MentalMath_VERSION_MINOR @MentalMath_VERSION_MINOR@
